@@ -23,11 +23,7 @@
 <img src="https://skillicons.dev/icons?i=aws,azure,terraform,ansible" />
 
 ### Data & Development
-<div style="display: flex; gap: 0;">
-  <img src="https://skillicons.dev/icons?i=aws,python" height="48" />
-  
-  <img src="./assets/databricks-icon.svg" height="48" style="border-radius: 12px; margin-left: 2px;" alt="Databricks" />
-</div>
+<img src="databricks-icon.svg" height="48" style="border-radius: 12px; margin-left: 2px;" alt="Databricks" />
 <img src="https://skillicons.dev/icons?i=py,js,ts" />
 
 ### 🐳 Containers & Orchestration
