@@ -11,24 +11,41 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🏆 Certificaciones
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Certified-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+##  🛠️ Stack Tecnológico
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)
+![Terraform](https://img.shields.io/badge/-%23232F3E.svg?style=for-the-badge&logo=terraform&logoColor=%23844FBA)
+![Ansible](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=ansible&logoColor=%23EE0000)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/-%23FFFFFF.svg?style=for-the-badge&logo=helm&logoColor=%230F1689)
 
 ### Data & Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
+### 🔁 CI/CD & Automation
+![Git](https://img.shields.io/badge/-%23181717.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
+![GitHub](https://img.shields.io/badge/-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=%23FC6D26)
+![GitHub Actions](https://img.shields.io/badge/-%23181717.svg?style=for-the-badge&logo=githubactions&logoColor=%232088FF)
 
-## 📊 Estadísticas de GitHub
+### 📊 Observability & Monitoring
+![Prometheus](https://img.shields.io/badge/-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-%23181717.svg?style=for-the-badge&logo=grafana&logoColor=%23F46800)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="Racha de GitHub" />
-</div>
+### 🖥️ Scripting & OS
+![Linux](https://img.shields.io/badge/-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-%23181717.svg?style=for-the-badge&logo=powershell&logoColor=%235391FE)
+![Python](https://img.shields.io/badge/-%23181717.svg?style=for-the-badge&logo=python&logoColor=%233670A0)
