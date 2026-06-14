@@ -19,6 +19,24 @@
 
 ##  🛠️ Stack Tecnológico
 
+## 🛠️ DevOps Toolchain
+
+### ☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible" />
+
+### 🐳 Containers & Orchestration
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
+
+### 🔁 CI/CD & Automation
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" />
+
+### 📊 Observability & Monitoring
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+
+### 🖥️ Scripting & OS
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,python" />
+
+
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)
 ![Terraform](https://img.shields.io/badge/-%23232F3E.svg?style=for-the-badge&logo=terraform&logoColor=%23844FBA)
